@@ -8,7 +8,7 @@ public class Mundo {
 		
 int resultado = 1;
 		
-		int numero=Integer.parseInt(JOptionPane.showInputDialog("Introduce el número a calcular."));
+		int numero=Integer.parseInt(JOptionPane.showInputDialog("Introduce el nÃºmero a calcular."));
 		
 		for(int i=numero;i>0;i--){
 			
@@ -18,5 +18,5 @@ int resultado = 1;
 		System.out.println("El factorial de " + numero + " es " + resultado);
 	}
 
-
+//comment
 }
