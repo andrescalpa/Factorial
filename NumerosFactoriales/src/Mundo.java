@@ -15,7 +15,7 @@ int resultado = 1;
 			resultado=resultado*i;
 		}
 
-		System.out.println("El factorial de " + numero + " es " + resultado);
+		//System.out.println("El factorial de " + numero + " es " + resultado);
 	}
 
 //comment
